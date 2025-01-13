@@ -15,6 +15,7 @@ export default function Hero() {
             natus, enim ipsam magnam odit deserunt itaque? Minima earum velit
             tenetur!
           </p>
+          
         </div>
         <div className="search">
           <div className="container">
